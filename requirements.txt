@@ -1,0 +1,1 @@
+requests\npandas\nbeautifulsoup4\nlxml\nmatplotlib\nnumpy\nscipy\nseaborn
